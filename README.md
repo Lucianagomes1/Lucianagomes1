@@ -1,4 +1,4 @@
-Oi, me chamo Luciana Gomes e sou programadora Front End, atualmente criando projetos com:
+Oi, eu me chamo Luciana Gomes e sou programadora Front End, atualmente criando projetos com:
 <br>
 <br>
 
