@@ -1,22 +1,18 @@
-Oi, eu me chamo Luciana Gomes e sou programadora Front End, atualmente criando projetos com:
+<h1> Olá pessoal da Tech 👋</h1>
 <br>
+<p>Me chamo Luciana, sou programadora Frontend e realizo desenvolvimento de Sistemas Web, Aplicativos, Páginas e Softwares. </p>
+<br>
+<p>Principais tecnologias que utilizo:</p>
 <br>
 
-- <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-- <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
 
-Meus contatos:
-<br>
-<br>
-<a href="https://instagram.com/l_deluciana"> Meu instagram </a>
-<br>
-<a href="https://www.linkedin.com/in/devlucianasousa/"> Meu Linkedin </a>
-<br>
-<br>
-<br>
-![Luciana stats](https://github-readme-stats.vercel.app/api?username=Lucianagomes1&show_icons=true&theme=transparent)
-<br>
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucianagomes1)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
