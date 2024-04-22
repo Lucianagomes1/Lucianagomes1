@@ -3,7 +3,7 @@
 <h1> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D73CCEBD&random=false&width=435&lines=Ol%C3%A1%2C+pessoal+da+Tech+!+%3D)" alt="Typing SVG" /></a> </h1>
 
 <br>
-<p>Me chamo Luciana, sou programadora FullStack, minha formação em Análise e Desenvolvimento de Sistemas além de muitos outros cursos extras, me proporcionaram uma base sólida em programação, lógica e outros conhecimentos. Realizo desenvolvimento de Sistemas Web, Aplicativos e Softwares. </p>
+<p>Me chamo Luciana, sou programadora FullStack, minha formação em Análise e Desenvolvimento de Sistemas além de outros cursos extras, me proporcionaram uma base sólida em programação, lógica e outros conhecimentos. Realizo desenvolvimento de Sistemas Web, Aplicativos e Softwares. Lembrando que todos os sistemas web são um software, mas nem todo software é um sistema web.😉 </p>
 <br>
 <p>Principais tecnologias que utilizo:</p>
 <br>
