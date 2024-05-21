@@ -3,7 +3,23 @@
 <h1> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D73CCEBD&random=false&width=435&lines=Ol%C3%A1%2C+pessoal+da+Tech+!+%3D)" alt="Typing SVG" /></a> </h1>
 
 <br>
-<p>Me chamo Luciana, sou programadora FullStack, minha formação em Análise e Desenvolvimento de Sistemas além de outros cursos extras, me proporcionaram uma base sólida em programação, lógica e outros conhecimentos. Realizo desenvolvimento de Sistemas Web, Aplicativos e Softwares. Lembrando que todos os sistemas web são um software, mas nem todo software é um sistema web.😉 </p>
+<p>Ola, eu sou a Luciana👋</p>
+  
+<p>Desenvolvedora Full Stack com formação em Análise e Desenvolvimento de Sistemas. Afeiçoada por tecnologia e por resolver problemas complexos através do código, tenho experiência tanto no desenvolvimento front-end quanto no back-end, criando soluções robustas e escaláveis.
+
+🚀 Habilidades:
+
+Linguagens: JavaScript, TypeScript, c# e Python.
+Front-end: React, Angular e Bootstrap
+Back-end: Node.js e Express.
+Banco de Dados: MySQL, NoSQL.
+
+💡 Interesses:
+
+Desenvolvimento de aplicações web e mobile
+Boas práticas de código e Clean Code
+Metodologias ágeis e desenvolvimento colaborativo
+Aprendizado contínuo e novas tecnologias </p>
 <br>
 <p>Principais tecnologias que utilizo:</p>
 <br>
