@@ -3,14 +3,29 @@
 <h1> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D73CCEBD&random=false&width=435&lines=Ol%C3%A1%2C+pessoal+da+Tech+!+%3D)" alt="Typing SVG" /></a> </h1>
 
 <br>
-<p>Eu sou a Luciana👋</p>
+<p>Olá, sou a Luciana, Desenvolvedora FullStack👋</p>
   
-<p>Desenvolvedora Full Stack com formação em Análise e Desenvolvimento de Sistemas. Afeiçoada por tecnologia e por resolver problemas complexos através do código, tenho experiência tanto no desenvolvimento front-end quanto no back-end, criando soluções robustas e escaláveis.
+<p>
+
+Formada em Análise e Desenvolvimento de Sistemas, continuo em constante evolução por meio de cursos especializados e práticas no desenvolvimento de soluções tecnológicas.
+
+Habilidades Técnicas:
+
+Linguagens: HTML, CSS, JavaScript, Python
+
+Backend & APIs: API RESTful, Node.js
+
+Conteinerização e Orquestração: Docker, Docker Compose
+
+Banco de Dados: MySQL, Cassandra (NoSQL)
+
+Controle de Versão: GIT, GitHub, Git Flow
+
+Metodologias Ágeis: SCRUM, Kanban
 <br>
 
 💡 Desenvolvo aplicações web e mobile, tenho boas práticas de código e Clean Code.
-<br>
-<p>Principais tecnologias que utilizo:</p>
+
 <br>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
